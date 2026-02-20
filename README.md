@@ -35,35 +35,35 @@ Shows detected disease name, confidence percentage, treatment plan, and preventi
 - AI Model Integration
 
 ## Project Structure
-PlantDiseaseDetection/
-│
-├── app/
-│   ├── java/com/example/plantdiseasedetection/
-│   │   ├── ApiService.kt           # Retrofit API interface
-│   │   ├── RetrofitClient.kt       # Retrofit client setup
-│   │   ├── MainActivity.kt         # Main detection activity
-│   │   └── WelcomeActivity.kt      # Welcome screen activity
-│   │
-│   ├── res/
-│   │   ├── layout/
-│   │   │   ├── activity_main.xml
-│   │   │   └── activity_welcome.xml
-│   │   │
-│   │   ├── drawable/
-│   │   │   └── plant_logo.xml      # App logo or illustration
-│   │   │
-│   │   └── values/
-│   │       ├── colors.xml
-│   │       ├── strings.xml
-│   │       └── styles.xml
-│   │
-│   └── AndroidManifest.xml
-│
-└── build.gradle (app & project level)
+- PlantDiseaseDetection/
+- │
+- ├── app/
+- │   ├── java/com/example/plantdiseasedetection/
+- │   │   ├── ApiService.kt           # Retrofit API interface
+- │   │   ├── RetrofitClient.kt       # Retrofit client setup
+- │   │   ├── MainActivity.kt         # Main detection activity
+- │   │   └── WelcomeActivity.kt      # Welcome screen activity
+- │   │
+- │   ├── res/
+- │   │   ├── layout/
+- │   │   │   ├── activity_main.xml
+- │   │   │   └── activity_welcome.xml
+- │   │   │
+- │   │   ├── drawable/
+- │   │   │   └── plant_logo.xml      # App logo or illustration
+- │   │   │
+- │   │   └── values/
+- │   │       ├── colors.xml
+- │   │       ├── strings.xml
+- │   │       └── styles.xml
+- │   │
+- │   └── AndroidManifest.xml
+- │
+- └── build.gradle (app & project level)
 
 - Kaggle Data Link: https://www.kaggle.com/code/ahmed1harfoush/plant-disease-detection-system                               
 - Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/plant-disease-detection-system
 - colab Notebook: https://colab.research.google.com/drive/1HQ3jYlPFFFUAl37WfdAKx7sLUMpeMFXW?usp=sharing
 
-![Plant Logo]([app/src/main/res/drawable/plant_logo.png](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40747-021-00536-1/MediaObjects/40747_2021_536_Fig2_HTML.jpg))
+![Plant Logo](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40747-021-00536-1/MediaObjects/40747_2021_536_Fig2_HTML.jpg)
 
