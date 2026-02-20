@@ -61,7 +61,7 @@ Shows detected disease name, confidence percentage, treatment plan, and preventi
 - │
 - └── build.gradle (app & project level)
 
-- Kaggle Data Link: https://www.kaggle.com/code/ahmed1harfoush/plant-disease-detection-system                               
+- Kaggle Data Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset                                            
 - Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/plant-disease-detection-system
 - colab Notebook: https://colab.research.google.com/drive/1HQ3jYlPFFFUAl37WfdAKx7sLUMpeMFXW?usp=sharing
 
