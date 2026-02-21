@@ -64,6 +64,9 @@ Shows detected disease name, confidence percentage, treatment plan, and preventi
 - Kaggle Data Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset                                            
 - Kaggle Notebook: https://www.kaggle.com/code/ahmed1harfoush/plant-disease-detection-system
 - colab Notebook: https://colab.research.google.com/drive/1HQ3jYlPFFFUAl37WfdAKx7sLUMpeMFXW?usp=sharing
+## 🌿 App Demo Video
+Click the preview image below to watch the demo of **Plant Disease Detection AI App**:
 
+[![Watch Demo](preview.png)](https://drive.google.com/file/d/1Y_QK5aosXsxpFSUlDrVdRVUdAmuVpDd5/view?usp=sharing)
 ![Plant Logo](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40747-021-00536-1/MediaObjects/40747_2021_536_Fig2_HTML.jpg)
 
