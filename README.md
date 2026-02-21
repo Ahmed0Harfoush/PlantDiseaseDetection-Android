@@ -67,5 +67,5 @@ Shows detected disease name, confidence percentage, treatment plan, and preventi
 ## 🌿 App Demo Video
 Click the preview image below to watch the demo of **Plant Disease Detection AI App**:
 
-[![Watch Demo]([preview.png](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40747-021-00536-1/MediaObjects/40747_2021_536_Fig2_HTML.jpg))](https://drive.google.com/file/d/1Y_QK5aosXsxpFSUlDrVdRVUdAmuVpDd5/view?usp=sharing)
+[![Watch Demo](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40747-021-00536-1/MediaObjects/40747_2021_536_Fig2_HTML.jpg)](https://drive.google.com/file/d/1Y_QK5aosXsxpFSUlDrVdRVUdAmuVpDd5/view?usp=sharing)
 
